@@ -5,7 +5,7 @@
 
 ## 🗒️Sobre o projeto 
 
-O projeto da **Pokedex** foi criado dentro do curso **BootCamp Java + Angular da DIO juntamente da Santander** com o intuito de aprendizado da lingaguem estudatada durante esse módulo do curso. 
+O projeto da **Pokedex** foi criado dentro do curso **BootCamp Java + Angular da DIO juntamente da Santander** com o intuito de aprendizado da lingaguem estudada durante esse módulo do curso. 
 
 ---
 
